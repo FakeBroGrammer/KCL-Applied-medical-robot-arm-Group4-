@@ -189,5 +189,5 @@ Encoder Feedback
 Python GUI real-time update
 
 ******* 7 demo:
-video
+video (demonstration.mp4)
 
